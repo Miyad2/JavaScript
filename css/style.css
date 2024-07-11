@@ -12,6 +12,7 @@
   transition: all 0.5s linear;
   scroll-behavior: smooth;
   vertical-align: middle;
+  text-align: center;
 }
 
 :root {
@@ -35,6 +36,7 @@ img {
   height: 100%;
   display: block;
   object-fit: cover;
+  margin: auto;
 }
 
 a {
